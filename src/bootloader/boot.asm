@@ -188,7 +188,7 @@ disk_reset:
   popa
   ret
 
-msg_hello: db 'Hello world!', ENDL, 0
+msg_hello: db 'Hello/Goodbye world!', ENDL, 0
 msg_read_failed: db 'Uh oh! after all the attempts read from floppy disk failed', ENDL, 0
 
 
