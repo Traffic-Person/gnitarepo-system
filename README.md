@@ -3,9 +3,11 @@
 ## QEMU is needed (i386) 
 ### best to install qemu-system
 
+what can this do? you can type! with every ascii character eg !@#$%^&*() etc etc
+
 how to use: download and get into the folder of gnitarepo and run:
 ```
-make run
+qemu-system-i386 -drive format=raw,file=os.img,if=floppy,snapshot=on
 ```
 how to build (dependencies needed eg. nasm gcc-i686):
 ```
