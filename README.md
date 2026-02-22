@@ -9,7 +9,7 @@ how to use: download and get into the folder of gnitarepo and run:
 ```
 qemu-system-i386 -drive format=raw,file=os.img,if=floppy,snapshot=on
 ```
-how to build (dependencies needed eg. nasm gcc-i686):
+how to build: Clone this repo, (dependencies needed eg. nasm gcc-i686):
 ```
 make
 ```
