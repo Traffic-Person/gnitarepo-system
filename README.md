@@ -1,6 +1,11 @@
 # Gnitarepo System
 
 ## QEMU is needed (i386) 
+
+## Demo video
+
+https://github.com/user-attachments/assets/e8606e5b-9710-4d2e-ab31-4f9c6ce613cf
+
 ### best to install qemu-system
 
 what can this do? you can type! with every ascii character eg !@#$%^&*() etc etc
